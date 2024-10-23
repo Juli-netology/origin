@@ -1,1 +1,5 @@
-Helloy
+Thumbs.db
+*_old
+*_backup
+tmp/
+.DS_Store
